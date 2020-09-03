@@ -38,3 +38,7 @@ GAOBowl開始！
 
 # 2020/09/01
 ・laravel API Cloudinary
+
+# 2020/09/03
+・laravel 多対多 いいね機能
+・アプリの構想 意見交換
