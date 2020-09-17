@@ -70,3 +70,6 @@ GAOBowl開始！
 # 2020/09/15
 ・JS クイズアプリ リファクタリング
 ・Swiper.js導入 laravel6 vue干渉
+
+# 2020/09/17
+・Vue.js いいね機能
