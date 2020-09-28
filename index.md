@@ -94,4 +94,6 @@ GAOBowl開始！
 # 2020/09/28
 ・エラー解消方法
 ・質問方法
-・GitHub Apps
+・GitHub Apps 自動化
+
+
