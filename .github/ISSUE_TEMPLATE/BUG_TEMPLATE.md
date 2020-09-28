@@ -1,7 +1,7 @@
 ---
 
 name: BugTemplate
-about: issues template for potfy bug
+about: issues template for diary bug
 title: ''
 labels: 'bug'
 assignees: ''
