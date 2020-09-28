@@ -10,4 +10,4 @@ jobs:
         uses: wktk/github-project-connect-action@v1
         with:
           github-token: ${{ secrets.DIARY_TOKEN }}
-          column-url: https://github.com/abetatsu/diary.git
+          column-url: https://github.com/abetatsu/diary/projects/1#column-11009553
