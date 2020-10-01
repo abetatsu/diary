@@ -1,13 +1,3 @@
----
-
-name: EnhancementTemplate
-about: PR template for diary enhancement
-title: ''
-labels: 'enhancement'
-assignees: 'abetatsu'
-
----
-
 # issue番号
 - connects #
 
